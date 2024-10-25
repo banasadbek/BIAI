@@ -1,0 +1,6 @@
+v = float(input("Enter speed of 1st car: "))
+u = float(input("Enter speed of 2nd car: "))
+S = float(input("Enter the distance between them: "))
+T = float(input("Enter the time T: "))
+d = S-T*(u+v)
+print(f'distance will be {d} kms')

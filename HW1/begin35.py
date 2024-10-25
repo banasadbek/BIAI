@@ -1,0 +1,6 @@
+v = float(input("Enter speed of boat: "))
+u = float(input("Enter speed of flow: "))
+t1 = float(input("Enter time of boat with flow: "))
+t2 = float(input("Enter time of boat against flow: "))
+d = t1*(v+u)
+print(f'distance = {d} kms')
