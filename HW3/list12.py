@@ -1,0 +1,5 @@
+a = list(map(str, input('Enter the initial list: ').split()))
+item = input('Enter the item to insert: ')
+index = int(input('Enter the index: '))
+a.insert(index, item)
+print(a)
