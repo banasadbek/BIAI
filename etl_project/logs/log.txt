@@ -1,0 +1,7 @@
+[2024-11-29 10:06:25] Processing files has started
+[2024-11-29 10:06:25] Database 'NewDatabase' already exists.
+[2024-11-29 10:06:25] Processing file1.csv into table NewDatabase.dbo.file1...
+[2024-11-29 10:06:25] Table NewDatabase.dbo.file1 created successfully.
+[2024-11-29 10:06:25] Processing file2.csv into table NewDatabase.dbo.file2...
+[2024-11-29 10:06:25] An error occurred: No columns to parse from file
+[2024-11-29 10:06:25] Processing files has finished
